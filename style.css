@@ -32,16 +32,18 @@ body {
     place-items: center;
     padding: 1rem;
     text-align: center;
-    border-radius: 1rem 1rem 1rem 1rem;
+    border-radius: 1rem;
     margin: 0 6rem 2rem 6rem;
 }
 
 .img {
     width: 100%;
+    border-radius: 1rem;
 }
 
 .h2-bold {
     margin: 1rem 0 2rem 0;
+    line-height: 2rem;
     font-weight: 600;
     color: var(--Dark-blue)
 }
