@@ -16,7 +16,7 @@ body {
 }
 
 .entire-page {
-    background-color: var(--Grayish-blue);
+    background-color: var(--Light-gray);
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ body {
     border-radius: 1rem;
 }
 
-.h2-bold {
+.heading {
     margin: 1rem 0 2rem 0;
     line-height: 2rem;
     font-weight: 600;
@@ -50,7 +50,7 @@ body {
 
 .p-light {
     margin: 0 0 1rem 0;
-    color: var(--Light-gray);
+    color: var(--Grayish-blue);
     font-weight: 400;
 }
 
